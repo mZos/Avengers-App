@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Avengers2</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="steve_rogers_email">steve@rogers.com</string>
+    <string name="steve_rogers_phone_number">+91 1111111111</string>
+    <string name="steve_rogers">Steve Rogers</string>
+    <string name="thor">Thor</string>
+    <string name="thor_odinson">Thor Odinson</string>
+    <string name="thor_odinson_email">thor@odinson.com</string>
+    <string name="thor_odinson_phone_number">+91 2222111111</string>
+    <string name="dr_bruce_banner">Dr. Bruce Banner</string>
+    <string name="bruce_banner_email">bruce@banner.com</string>
+    <string name="dr_bruce_banner_phone_number">+91 3333111111</string>
+    <string name="t_challa">T\'Challa</string>
+    <string name="t_challa_email">challa@panther.com</string>
+    <string name="t_challa_phone_number">+91 4444111111</string>
+    <string name="natasha_romanova">Natasha Romanova</string>
+    <string name="natasha_romanova_email">natasha@romanova.com</string>
+    <string name="natasha_romanova_phone_number">+91 5555111111</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="tony_stark_email">tony@stark.com</string>
+    <string name="tony_stark_phone_number">+91 0000111111</string>
+    <string name="message">Message</string>
+    <string name="send_message">Send Message</string>
+    <string name="preference_file_name">Avengers Prefrences</string>
+    <string name="log_out">Log Out</string>
+    <string name="avengers">Avengers</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
